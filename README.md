@@ -10,13 +10,13 @@ They have managed to craft the code to get the file extension from a string cont
 
 It's up to you to save their site and their business.
 
-You can view what the final version of this project should look like <a href="https://s3.amazonaws.com/codecademy-content/programs/build-apis/projects/build-apis-project-0-content-creators/index.html" target="_blank">here</a>.
+You can view what the final version of this project should look like [here](https://s3.amazonaws.com/codecademy-content/programs/build-apis/projects/build-apis-project-0-content-creators/index.html).
 
 The goal of this project is to get you running a testing suite and implementing the functionality laid out in the testing suite.
 
 ## How To Begin
 
-To start, download the starting code for this project <a href="https://s3.amazonaws.com/codecademy-content/PRO/skill-paths/backend-javascript/projects/content-creators/project-0-content-creators-start.zip" target="_blank">here</a>. After downloading the zip folder, double click it to uncompress it and access the contents of this project.
+To start, download the starting code for this project [here](https://s3.amazonaws.com/codecademy-content/PRO/skill-paths/backend-javascript/projects/content-creators/project-0-content-creators-start.zip). After downloading the zip folder, double click it to uncompress it and access the contents of this project.
 
 ## Implementation Details
 
